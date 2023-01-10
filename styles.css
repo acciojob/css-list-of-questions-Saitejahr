@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-blockquote .questions{
+blockquote.questions p{
 	background-color: #f8fffe;
 	height: 50px;
 	margin-top: 20px;
